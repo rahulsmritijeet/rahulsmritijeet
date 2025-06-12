@@ -53,7 +53,7 @@ I’m open to cool project ideas in:
 
 - GitHub: [@rahulsmritijeet](https://github.com/rahulsmritijeet)
 - Email: mitti.psd1985@gmail.com
-- No social distractions — focused mode 🧠
+- No social media distractions — focused mode 🧠
 
 ---
 
