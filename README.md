@@ -52,7 +52,7 @@ I’m open to cool project ideas in:
 ### 📫 Reach Me
 
 - GitHub: [@rahulsmritijeet](https://github.com/rahulsmritijeet)
-- Email: rahulsmritijeet@gmail.com
+- Email: rahulsmritijeet@gmail.com & mitti.psd1985@gmail.com
 - No social media distractions — focused mode 🧠
 
 ---
