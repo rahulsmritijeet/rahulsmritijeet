@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on:
   - `css-craft` — a responsive HTML/CSS site on sustainability 🌿
-  - `smart-city` — a tech-powered vision for the cities of the future 🌇
+  - `my_portfolio` — a clean, dark-themed dev site with a cosmic touch 🪐
 - 🌱 I’m learning:
   - Frontend Web Dev (HTML, CSS, JS, Git & GitHub)
   - Robotics (Arduino, sensors, hardware integration)
@@ -35,9 +35,31 @@
 
 ### 📌 Featured Projects
 
-- [`css-craft`](https://github.com/rahulsmritijeet/css-craft): Static site using HTML/CSS and iframes
-- [`smart-city`](https://github.com/rahulsmritijeet/smart-city): A vision for future-ready cities
-- More coming soon — I ship what I build ⚙️
+- [`my_portfolio`](https://rahulsmritijeet.github.io/my_portfolio): My personal developer site — dark, clean, and focused. Built from scratch with HTML, CSS, and a vision.
+- [`css-craft`](https://github.com/rahulsmritijeet/css-craft): A creative site exploring the power of HTML, CSS, and iframes — pure frontend logic, no frameworks.
+
+---
+
+### 🌌 Future Projects & Plans
+
+## 🚀 Major Projects
+
+### 🤖 RAHOVER  
+A 6WD cardboard rover powered by Arduino & ESP32. Features include ultrasonic sensors, an LCD display, an LED-based emotion system, and remote control. Designed for terrain navigation and robotics learning.
+
+### 🌌 Project Omniverse  
+A futuristic integration of web development, rover control, and smart home automation. An ongoing experimental platform bridging software and hardware.
+
+### 🧪 Other Projects
+
+- **📶 Wireless Communication Lab**  
+  Explored Bluetooth (HC-05) and WiFi capabilities by enabling wireless data transmission between Arduino Uno and ESP32 modules.
+
+- **🌐 School Competition Website**  
+  Designed and developed a clean, responsive website using HTML & CSS for my school's inter-house technology competition prelims.
+
+- **🛰️ Holiday Science Project**  
+  Built a remote-controlled rover using ESP32 and Arduino with LED indicators, sensor integration, and Bluetooth command execution.
 
 ---
 
@@ -55,8 +77,8 @@ I’m open to cool project ideas in:
 
 - GitHub: [@rahulsmritijeet](https://github.com/rahulsmritijeet)
 - Email: rahulsmritijeet@gmail.com
-- Discord: [rahul-the-dev](https://discord.com/users/rahul-the-dev)
-- Focused Mode! (Not on Facebook, Instagram, or distractions — I build instead just like their founders.)
+- Discord: [rahul-the-dev](https://discord.com/users/YOUR_USER_ID)
+- **Focused Mode!** (Not on Facebook, Instagram, or distractions — I build instead. Just like their founders. Maybe better.)
 
 ---
 
@@ -68,3 +90,4 @@ I’m open to cool project ideas in:
 
 > “Every master was once a beginner who refused to give up.”  
 > Let’s build cool stuff together 💡
+
