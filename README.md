@@ -7,17 +7,20 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I've currently worked on:
+- 🔭 I’ve worked on:
   - `css-craft` — a responsive HTML/CSS site on sustainability 🌿
   - `my_portfolio` — a clean, dark-themed dev site with a cosmic touch 🪐
-  - - 🔭 I'm currently working on:
-  - `RAHOVER` — a working prototype of the martian rover - Curiosity 🌿
-  - `Wireless Communication` — a project for communicating wirelessly among development boards. 🪐
+
+- 🚧 Currently building:
+  - `RAHOVER` — a working prototype of the Martian rover *Curiosity*, using Arduino and ESP32 🤖
+  - `Wireless Communication` — enabling Bluetooth & serial comms between microcontrollers 📶
+
 - 🌱 I’m learning:
   - Frontend Web Dev (HTML, CSS, JS, Git & GitHub)
   - Robotics (Arduino, ESP-32, sensors, hardware integration)
   - Python programming
   - Aerospace & Rocketry fundamentals
+    
 - ⚡ Fun fact:
   - I designed my first working website at 11 and never stopped tinkering.
   - Also... huge Potterhead 🧙, and obsessed with rovers, rockets & real-world innovation.
@@ -69,8 +72,7 @@ A futuristic integration of web development, rover control, and smart home autom
 ### 💬 Let’s Collaborate!
 
 I’m open to cool project ideas in:
-- Web development (HTML/CSS sites, beginner Python tools)
-- Educational awareness platforms
+- Web development (HTML/CSS/JS sites, Python tools)
 - Aerospace-related models or simulations
 - Robotics and automation with Arduino, ESP-32, and maybe Raspberry Pi in the future!
 
