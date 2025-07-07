@@ -77,7 +77,7 @@ I’m open to cool project ideas in:
 
 - GitHub: [@rahulsmritijeet](https://github.com/rahulsmritijeet)
 - Email: rahulsmritijeet@gmail.com
-- Discord: [rahul-the-dev](https://discord.com/users/YOUR_USER_ID)
+- Discord: [rahul-the-dev](https://discord.com/users/rahul-the-dev)
 - **Focused Mode!** (Not on Facebook, Instagram, or distractions — I build instead. Just like their founders. Maybe better.)
 
 ---
