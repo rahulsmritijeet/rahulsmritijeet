@@ -82,7 +82,7 @@ I’m open to cool project ideas in:
 
 ---
 
-### 📈 GitHub Stats (Optional)
+### 📈 GitHub Stats
 
 ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulsmritijeet&show_icons=true&theme=tokyonight&hide=contribs&count_private=true)
 
