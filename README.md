@@ -11,12 +11,12 @@
   - `css-craft` — a responsive HTML/CSS site on sustainability 🌿
   - `smart-city` — a tech-powered vision for the cities of the future 🌇
 - 🌱 I’m learning:
-  - Frontend Web Dev (HTML, CSS, Git & GitHub)
+  - Frontend Web Dev (HTML, CSS, JS, Git & GitHub)
   - Robotics (Arduino, sensors, hardware integration)
   - Python programming
   - Aerospace & Rocketry fundamentals
 - ⚡ Fun fact:
-  - I designed my first working website at 13 and never stopped tinkering.
+  - I designed my first working website at 11 and never stopped tinkering.
   - Also... huge Potterhead 🧙, and obsessed with rovers, rockets & real-world innovation.
 
 ---
@@ -45,7 +45,7 @@ I’m open to cool project ideas in:
 - Web development (HTML/CSS sites, beginner Python tools)
 - Educational awareness platforms
 - Aerospace-related models or simulations
-- Robotics and automation with Arduino or Raspberry Pi
+- Robotics and automation with Arduino, ESP-32, and maybe Raspberry Pi in the future!
 
 ---
 
