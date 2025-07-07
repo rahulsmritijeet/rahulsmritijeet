@@ -52,8 +52,9 @@ I’m open to cool project ideas in:
 ### 📫 Reach Me
 
 - GitHub: [@rahulsmritijeet](https://github.com/rahulsmritijeet)
-- Email: rahulsmritijeet@gmail.com & mitti.psd1985@gmail.com
-- No social media distractions — focused mode 🧠
+- Email: rahulsmritijeet@gmail.com
+- Discord: [rahul-the-dev](https://discord.com/users/rahul-the-dev)
+- Focused Mode! (Not on Facebook, Instagram, or distractions — I build instead just like their founders.)
 
 ---
 
