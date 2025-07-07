@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Rahul!
 
 > Student | Tech Explorer | Aspiring Aerospace Engineer 🚀  
-> Passionate about sustainability, web dev, and building things that matter.
+> Passionate about physics and building things that matter.
 
 ---
 
