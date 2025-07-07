@@ -7,12 +7,15 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on:
+- 🔭 I've currently worked on:
   - `css-craft` — a responsive HTML/CSS site on sustainability 🌿
   - `my_portfolio` — a clean, dark-themed dev site with a cosmic touch 🪐
+  - - 🔭 I'm currently working on:
+  - `RAHOVER` — a working prototype of the martian rover - Curiosity 🌿
+  - `Wireless Communication` — a project for communicating wirelessly among development boards. 🪐
 - 🌱 I’m learning:
   - Frontend Web Dev (HTML, CSS, JS, Git & GitHub)
-  - Robotics (Arduino, sensors, hardware integration)
+  - Robotics (Arduino, ESP-32, sensors, hardware integration)
   - Python programming
   - Aerospace & Rocketry fundamentals
 - ⚡ Fun fact:
