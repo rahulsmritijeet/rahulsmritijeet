@@ -14,6 +14,7 @@
 - 🚧 Currently building:
   - `RAHOVER` — a working prototype of the Martian rover *Curiosity*, using Arduino and ESP32 🤖
   - `Wireless Communication` — enabling Bluetooth & serial comms between microcontrollers 📶
+  - `Project Rattlestone` - `a prototype of a moving mini weather station 🚗
 
 - 🌱 I’m learning:
   - Frontend Web Dev (HTML, CSS, JS, Git & GitHub)
@@ -64,7 +65,7 @@ A futuristic integration of web development, rover control, and smart home autom
 - **🌐 School Competition Website**  
   Designed and developed a clean, responsive website using HTML & CSS for my school's inter-house technology competition prelims.
 
-- **🛰️ Holiday Science Project**  
+- **🛰️ Project Rattlestone**  
   Built a remote-controlled rover using ESP32 and Arduino with LED indicators, sensor integration, and Bluetooth command execution.
 
 ---
