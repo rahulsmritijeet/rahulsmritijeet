@@ -10,11 +10,12 @@
 - 🔭 I’ve worked on:
   - `css-craft` — a responsive HTML/CSS site on sustainability 🌿
   - `my_portfolio` — a clean, dark-themed dev site with a cosmic touch 🪐
+  - `project_rattlestone` - `a prototype of a moving mini weather station 🚗
 
 - 🚧 Currently building:
   - `RAHOVER` — a working prototype of the Martian rover *Curiosity*, using Arduino and ESP32 🤖
-  - `Wireless Communication` — enabling Bluetooth & serial comms between microcontrollers 📶
-  - `Project Rattlestone` - `a prototype of a moving mini weather station 🚗
+  - `Wireless Communication` — enabling Bluetooth & serial comms between microcontrollers at a larger scale 📶
+  - `ESP32 Advanced` - learning more on ESP32 (the absolute development board by espressif)
 
 - 🌱 I’m learning:
   - Frontend Web Dev (HTML, CSS, JS, Git & GitHub)
