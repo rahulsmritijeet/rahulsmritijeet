@@ -10,7 +10,7 @@
 - 🔭 I’ve worked on:
   - `css-craft` — a responsive HTML/CSS site on sustainability 🌿
   - `my_portfolio` — a clean, dark-themed dev site with a cosmic touch 🪐
-  - `project_rattlestone` - `a prototype of a moving mini weather station 🚗
+  - `project_rattlestone` - `a prototype of a mini weather station 🛠
 
 - 🚧 Currently building:
   - `RAHOVER` — a working prototype of the Martian rover *Curiosity*, using Arduino and ESP32 🤖
@@ -45,7 +45,7 @@
 
 - [`my_portfolio`](https://rahulsmritijeet.github.io/my_portfolio): My personal developer site — dark, clean, and focused. Built from scratch with HTML, CSS, and a vision.
 - [`css-craft`](https://github.com/rahulsmritijeet/css-craft): A creative site exploring the power of HTML, CSS, and iframes — pure frontend logic, no frameworks.
-- [`project_rattlestone`](https://github.com/rahulsmritijeet/project_rattlestone): A compatible weather station which displays data online using ESP32 NodeMCU and Arduino Uno Rev3.
+- [`project_rattlestone`](https://github.com/rahulsmritijeet/project_rattlestone): A compatible weather station prototype which displays data online using ESP32 NodeMCU and Arduino Uno Rev3.
 
 ---
 
