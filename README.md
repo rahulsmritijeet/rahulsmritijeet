@@ -1,22 +1,22 @@
-# 👋 Hey there, I'm Rahul!
+# Hey there, I'm Rahul!
   
 > Passionate about physics and building things that matter.
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 - 🔭 I’ve worked on:
-  - `css-craft` — a responsive HTML/CSS site on sustainability 🌿
-  - `my_portfolio` — a clean, dark-themed dev site with a cosmic touch 🪐
-  - `project_rattlestone` - `a prototype of a mini weather station 🛠
+  - `css-craft` — a responsive HTML/CSS site on sustainability 
+  - `my_portfolio` — a clean, dark-themed dev site with a cosmic touch 
+  - `project_rattlestone` - `a prototype of a mini weather station 
   - (classified information....)
 
-- 🚧 Currently building:
-  - `RAHOVER` — a working prototype of the Martian rover *Curiosity*, using Arduino and ESP32 🤖
+- Currently building:
+  - `RAHOVER` — a working prototype of the Martian rover *Curiosity*, using Arduino and ESP32 
   - `AI Hardware Integration` - Using Uno R4 WiFi and ESP32S3.
 
-- 🌱 I’m learning:
+- Skills (still mastering):
   - Frontend Web Dev (HTML, CSS, JS, Git & GitHub)
   - Backend Web Dev (React, NodeJS)
   - Robotics (Arduino, ESP-32, sensors, hardware integration)
@@ -25,7 +25,7 @@
 
 ---
 
-### 🧰 Tools & Tech
+### Tools & Tech
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
@@ -40,35 +40,36 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 - [`my_portfolio`](https://rahulsmritijeet.github.io/my_portfolio): My personal developer site — dark, clean, and focused. Built from scratch with HTML, CSS, and a vision.
 - [`css-craft`](https://github.com/rahulsmritijeet/css-craft): A creative site exploring the power of HTML, CSS, and iframes — pure frontend logic, no frameworks.
 - [`project_rattlestone`](https://github.com/rahulsmritijeet/project_rattlestone): A compatible weather station prototype which displays data online using ESP32 NodeMCU and Arduino Uno Rev3.
+- [`x-plorer`](https://github.com/rahulsmritijeet/x-plorer): A futuristic space travel website.
 
 ---
 
-### 🌌 Future Projects & Plans
+### Future Projects & Plans
 
-## 🚀 Major Projects
+## Major Projects
 
-### 🤖 RAHOVER  (Upcoming)
+### RAHOVER  (Upcoming)
 A 6WD cardboard rover powered by Arduino & ESP32. Features include ultrasonic sensors, an LCD display, an LED-based emotion system, and remote control. Designed for terrain navigation and robotics learning.
 
-### 🌌 Project Omniverse (Upcoming) 
+### Project Omniverse (Upcoming) 
 A futuristic integration of web development, rover control, and smart home automation. An ongoing experimental platform bridging software and hardware.
 
-### 🧪 Other Projects
+### Other Projects
 
-- **📶 Wireless Communication Lab**  
+- ** Wireless Communication Lab**  
   Explored Bluetooth (HC-05) and WiFi capabilities by enabling wireless data transmission between Arduino Uno and ESP32 modules.
 
-- **🛰️ Project Rattlestone**  
+- ** Project Rattlestone**  
   Built a remote-controlled rover using ESP32 and Arduino with LED indicators, sensor integration, and Bluetooth command execution.
 
 ---
 
-### 💬 Let’s Collaborate!
+### Let’s Collaborate!
 
 I’m open to cool project ideas in:
 - Web development (HTML/CSS/JS sites, Python tools)
@@ -77,7 +78,7 @@ I’m open to cool project ideas in:
 
 ---
 
-### 📫 Reach Me
+### Reach Me
 
 - GitHub: [@rahulsmritijeet](https://github.com/rahulsmritijeet)
 - Email: rahulsmritijeet@gmail.com
@@ -86,7 +87,7 @@ I’m open to cool project ideas in:
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulsmritijeet&show_icons=true&theme=tokyonight&hide=contribs&count_private=true)
 
