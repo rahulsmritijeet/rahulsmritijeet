@@ -1,6 +1,5 @@
 # 👋 Hey there, I'm Rahul!
-
-> Student | Tech Explorer | Aspiring Aerospace Engineer 🚀  
+  
 > Passionate about physics and building things that matter.
 
 ---
@@ -11,21 +10,18 @@
   - `css-craft` — a responsive HTML/CSS site on sustainability 🌿
   - `my_portfolio` — a clean, dark-themed dev site with a cosmic touch 🪐
   - `project_rattlestone` - `a prototype of a mini weather station 🛠
+  - (classified information....)
 
 - 🚧 Currently building:
   - `RAHOVER` — a working prototype of the Martian rover *Curiosity*, using Arduino and ESP32 🤖
-  - `Wireless Communication` — enabling Bluetooth & serial comms between microcontrollers at a larger scale 📶
-  - `ESP32 Advanced` - learning more on ESP32 (the absolute development board by espressif)
+  - `AI Hardware Integration` - Using Uno R4 WiFi and ESP32S3.
 
 - 🌱 I’m learning:
   - Frontend Web Dev (HTML, CSS, JS, Git & GitHub)
+  - Backend Web Dev (React, NodeJS)
   - Robotics (Arduino, ESP-32, sensors, hardware integration)
-  - Python programming
+  - Python
   - Aerospace & Rocketry fundamentals
-    
-- ⚡ Fun fact:
-  - I designed my first working website at 11 and never stopped tinkering.
-  - Also... huge Potterhead 🧙, and obsessed with rovers, rockets & real-world innovation.
 
 ---
 
@@ -53,19 +49,16 @@
 
 ## 🚀 Major Projects
 
-### 🤖 RAHOVER  
+### 🤖 RAHOVER  (Upcoming)
 A 6WD cardboard rover powered by Arduino & ESP32. Features include ultrasonic sensors, an LCD display, an LED-based emotion system, and remote control. Designed for terrain navigation and robotics learning.
 
-### 🌌 Project Omniverse  
+### 🌌 Project Omniverse (Upcoming) 
 A futuristic integration of web development, rover control, and smart home automation. An ongoing experimental platform bridging software and hardware.
 
 ### 🧪 Other Projects
 
 - **📶 Wireless Communication Lab**  
   Explored Bluetooth (HC-05) and WiFi capabilities by enabling wireless data transmission between Arduino Uno and ESP32 modules.
-
-- **🌐 School Competition Website**  
-  Designed and developed a clean, responsive website using HTML & CSS for my school's inter-house technology competition prelims.
 
 - **🛰️ Project Rattlestone**  
   Built a remote-controlled rover using ESP32 and Arduino with LED indicators, sensor integration, and Bluetooth command execution.
@@ -85,8 +78,8 @@ I’m open to cool project ideas in:
 
 - GitHub: [@rahulsmritijeet](https://github.com/rahulsmritijeet)
 - Email: rahulsmritijeet@gmail.com
-- Discord: [rahul-the-dev](https://discord.com/users/rahul-the-dev)
-- **Focused Mode!** (Not on Facebook, Instagram, or distractions — I build instead. Just like their founders.)
+- Discord: [laktik-aseed](https://discord.com/users/laktik-aseed)
+- **Focused Mode!** (Not on Facebook, Instagram, or distractions)
 
 ---
 
