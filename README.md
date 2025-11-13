@@ -7,6 +7,7 @@
 ### About Me
 
 - 🔭 I’ve worked on:
+  - `entrode` - A platform where entrepreneurs meet investors and get funded!
   - `css-craft` — a responsive HTML/CSS site on sustainability 
   - `my_portfolio` — a clean, dark-themed dev site with a cosmic touch 
   - `project_rattlestone` - `a prototype of a mini weather station 
