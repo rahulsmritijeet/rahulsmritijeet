@@ -19,7 +19,7 @@
 
 - Skills (still mastering):
   - Frontend Web Dev (HTML, CSS, JS, Git & GitHub)
-  - Backend Web Dev (React, NodeJS)
+  - Backend Web Dev (React, NodeJS, NextJS, MongoDB)
   - Robotics (Arduino, ESP-32, sensors, hardware integration)
   - Python
   - Aerospace & Rocketry fundamentals
